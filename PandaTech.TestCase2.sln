@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaTech.TestCase2", "PandaTech.TestCase2\PandaTech.TestCase2.csproj", "{8963B470-94A1-4539-A06F-D8B03A08CE93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaTech.TestCase2.Tests", "PandaTech.TestCase2.Tests\PandaTech.TestCase2.Tests.csproj", "{A2CD110C-0B16-4F0F-AD96-FEAF19929E13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaTech.TestCase2.Console", "PandaTech.TestCase2.Console\PandaTech.TestCase2.Console.csproj", "{1FE5C2CE-A881-47E4-ADF6-6015B8202E62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8963B470-94A1-4539-A06F-D8B03A08CE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8963B470-94A1-4539-A06F-D8B03A08CE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8963B470-94A1-4539-A06F-D8B03A08CE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8963B470-94A1-4539-A06F-D8B03A08CE93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2CD110C-0B16-4F0F-AD96-FEAF19929E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CD110C-0B16-4F0F-AD96-FEAF19929E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CD110C-0B16-4F0F-AD96-FEAF19929E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CD110C-0B16-4F0F-AD96-FEAF19929E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE5C2CE-A881-47E4-ADF6-6015B8202E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE5C2CE-A881-47E4-ADF6-6015B8202E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE5C2CE-A881-47E4-ADF6-6015B8202E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE5C2CE-A881-47E4-ADF6-6015B8202E62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

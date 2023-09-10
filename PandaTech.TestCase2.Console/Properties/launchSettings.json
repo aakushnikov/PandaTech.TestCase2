@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "Local": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "PandaTech.TestCase2.Configuration.MatrixAllowedValues": "0,1",
+        "PandaTech.TestCase2.Configuration.OpenMessage": "Please enter a matrix sequence:",
+        "PandaTech.TestCase2.Configuration.StopWord": "stop",
+        "PandaTech.TestCase2.Configuration.LookedValue": "1",
+        "PandaTech.TestCase2.Configuration.MatrixMaxX": "100",
+        "PandaTech.TestCase2.Configuration.MatrixMaxY": "100",
+        "PandaTech.TestCase2.Configuration.RowDelimiter": ";",
+        "PandaTech.TestCase2.Configuration.ColDelimiter": ","
+      }
+    }
+  }
+}
